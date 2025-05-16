@@ -22,11 +22,26 @@
   font-size: 18px;
   line-height: 1.6;
   max-width: 500px; 
-  text-align: justify; 
+   
 }
 
 
 .imagem-destaque {
+  width: 350px; 
+  height: auto;
+  border-radius: 8px;
+}
+
+.texto-destaque2 {
+  color: #9e131a;
+  font-family: 'Arial', sans-serif;
+  font-size: 20px;
+  line-height: 1.6;
+  max-width: 500px; 
+  text-align: justify; 
+}
+
+.imagem-destaque2 {
   width: 350px; 
   height: auto;
   border-radius: 8px;
